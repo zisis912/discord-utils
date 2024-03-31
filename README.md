@@ -5,6 +5,7 @@ Allows for fetching messages from Disocrd API with multiple accounts, for faster
 1) Download the file (obviously)
 2) Install dependency: `npm i discord.js-selfbot-v13`
 3) You can now import the file into your project, and use its exported functions
+4) (Obviously, join the server with your accounts if you want to fetch messages from its channels)
 
 # Documentation
 ## multiAccountFetchFromNDaysAgo(channel, days, tokenArray: string[], filterFn, mapFn) :
